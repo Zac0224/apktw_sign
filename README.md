@@ -1,2 +1,2 @@
 # apk.tw autosign
-O。
+自動
